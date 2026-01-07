@@ -30,6 +30,7 @@ Various ML Algos for Image Generation
 
 ### GAN
 
-| MNIST | CIFAR 10 |
+| MNIST | CIFAR 10 with DCGAN |
 |------|------|
 |<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/b92779b1-d5b4-416f-b4fa-0e78f7d277f6"/>|<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/50767fd4-3472-455f-b2a6-6ac3d5da9a0c"/>|
+
